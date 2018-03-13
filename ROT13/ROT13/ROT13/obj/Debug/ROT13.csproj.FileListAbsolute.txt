@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\GitHub\CodeWar\ROT13\ROT13\ROT13\bin\Debug\ROT13.dll
+\\Mac\Home\Documents\GitHub\CodeWar\ROT13\ROT13\ROT13\bin\Debug\ROT13.pdb
+\\Mac\Home\Documents\GitHub\CodeWar\ROT13\ROT13\ROT13\obj\Debug\ROT13.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\GitHub\CodeWar\ROT13\ROT13\ROT13\obj\Debug\ROT13.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\CodeWar\ROT13\ROT13\ROT13\obj\Debug\ROT13.dll
+\\Mac\Home\Documents\GitHub\CodeWar\ROT13\ROT13\ROT13\obj\Debug\ROT13.pdb

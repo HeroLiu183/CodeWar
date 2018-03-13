@@ -1,0 +1,15 @@
+\\Mac\Home\Documents\GitHub\CodeWar\ROT13\ROT13\ROT13Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+\\Mac\Home\Documents\GitHub\CodeWar\ROT13\ROT13\ROT13Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+\\Mac\Home\Documents\GitHub\CodeWar\ROT13\ROT13\ROT13Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+\\Mac\Home\Documents\GitHub\CodeWar\ROT13\ROT13\ROT13Test\bin\Debug\ROT13Test.dll
+\\Mac\Home\Documents\GitHub\CodeWar\ROT13\ROT13\ROT13Test\bin\Debug\ROT13Test.pdb
+\\Mac\Home\Documents\GitHub\CodeWar\ROT13\ROT13\ROT13Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+\\Mac\Home\Documents\GitHub\CodeWar\ROT13\ROT13\ROT13Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+\\Mac\Home\Documents\GitHub\CodeWar\ROT13\ROT13\ROT13Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+\\Mac\Home\Documents\GitHub\CodeWar\ROT13\ROT13\ROT13Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+\\Mac\Home\Documents\GitHub\CodeWar\ROT13\ROT13\ROT13Test\obj\Debug\ROT13Test.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\GitHub\CodeWar\ROT13\ROT13\ROT13Test\obj\Debug\ROT13Test.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\CodeWar\ROT13\ROT13\ROT13Test\obj\Debug\ROT13Test.dll
+\\Mac\Home\Documents\GitHub\CodeWar\ROT13\ROT13\ROT13Test\obj\Debug\ROT13Test.pdb
+\\Mac\Home\Documents\GitHub\CodeWar\ROT13\ROT13\ROT13Test\bin\Debug\ROT13.dll
+\\Mac\Home\Documents\GitHub\CodeWar\ROT13\ROT13\ROT13Test\bin\Debug\ROT13.pdb
